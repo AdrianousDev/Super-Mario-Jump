@@ -4,9 +4,13 @@
   box-sizing: border-box;
 }
 
+body {
+  height: 100svh;
+}
+
 .game-board {
   width: 100%;
-  height: 100svh;
+  height: 100%;
   border-bottom: 15px solid rgb(35, 160, 35);
   margin: 0 auto;
   position: relative;
