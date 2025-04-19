@@ -1,3 +1,5 @@
 Adicionar Score;
 Adicionar Tela para recomeçar;
 Adicionar Score recorde;
+Adicionar Animação de pulo duplo com capa;
+Adicionar Níveis de dificuldade;
