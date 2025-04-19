@@ -1,0 +1,3 @@
+Adicionar Score;
+Adicionar Tela para recomeçar;
+Adicionar Score recorde;
